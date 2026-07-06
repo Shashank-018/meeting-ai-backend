@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+meetings.db
+chroma-data/
+.env
+.DS_Store

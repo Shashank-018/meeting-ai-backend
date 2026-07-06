@@ -65,6 +65,13 @@
             <artifactId>hibernate-community-dialects</artifactId>
         </dependency>
 
+        <!-- PostgreSQL driver (used in cloud) -->
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+
         <!-- HTTP client for ChromaDB REST calls -->
         <dependency>
             <groupId>org.apache.httpcomponents.client5</groupId>
