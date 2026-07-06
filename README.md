@@ -10,6 +10,9 @@
 
 🔗 **Frontend repo:** [meeting-ai-frontend](https://github.com/Shashank-018/meeting-ai-frontend)
 
+🔗 **Live demo:** https://meeting-ai-frontend-khaki.vercel.app
+🔗 **Backend API:** https://meeting-ai-backend-s7xe.onrender.com
+
 ---
 
 ## What it does
